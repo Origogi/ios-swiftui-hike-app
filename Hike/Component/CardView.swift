@@ -54,7 +54,7 @@ struct CardView: View {
               SettingsView()
                   .presentationDragIndicator(.visible)
                   .presentationDetents([.medium, .large])
-            })
+            }) 
           }
           Text("Fun and enjoyable outdoor activity for friends and families")
             .multilineTextAlignment(.leading)

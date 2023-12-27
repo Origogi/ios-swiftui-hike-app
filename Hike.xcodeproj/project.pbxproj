@@ -19,6 +19,7 @@
 		9F68ADFB2B3AFE4E007BD476 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F68ADFA2B3AFE4E007BD476 /* CustomCircleView.swift */; };
 		9F68ADFD2B3B003C007BD476 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F68ADFC2B3B003C007BD476 /* MotionAnimationView.swift */; };
 		9FBF34732B3C16EA00259ABB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FBF34722B3C16EA00259ABB /* SettingsView.swift */; };
+		9FBF34772B3C642400259ABB /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FBF34762B3C642400259ABB /* CustomListRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		9F68ADFA2B3AFE4E007BD476 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
 		9F68ADFC2B3B003C007BD476 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		9FBF34722B3C16EA00259ABB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		9FBF34762B3C642400259ABB /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				9F0C4E122B39D156003ED122 /* CustomButtonView.swift */,
 				9F68ADFA2B3AFE4E007BD476 /* CustomCircleView.swift */,
 				9F68ADFC2B3B003C007BD476 /* MotionAnimationView.swift */,
+				9FBF34762B3C642400259ABB /* CustomListRowView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				9F0C4DF72B37B579003ED122 /* ContentView.swift in Sources */,
 				9F68ADFB2B3AFE4E007BD476 /* CustomCircleView.swift in Sources */,
+				9FBF34772B3C642400259ABB /* CustomListRowView.swift in Sources */,
 				9F0C4E0B2B387535003ED122 /* CardView.swift in Sources */,
 				9F0C4E112B395511003ED122 /* ColorExtension.swift in Sources */,
 				9F0C4E132B39D156003ED122 /* CustomButtonView.swift in Sources */,
